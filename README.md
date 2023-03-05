@@ -5,7 +5,7 @@ This is a simple app utilizing Node JS to create a simple bus schedule with data
 
 Furthermore, we are instaling three modules:
 
-1- lineareader : to prompt the user to type in new routes including the time.
+1- linereader : to prompt the user to type in new routes including the time.
 
 2- figlet: Used for big headers in CLI apps.
 
